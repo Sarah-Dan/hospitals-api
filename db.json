@@ -1,0 +1,58 @@
+{
+    "hospitals" : [
+        {
+            "id" : 1,
+            "name" : "Kelina Hospital",
+            "address" : "Plot 123, 4th Avenue, Gwarinpa",
+            "city" : "Abuja",
+            "state" : "FCT",
+            "zip" : "900108",
+            "phone" : "08012345678",
+            "website" : "http://www.kelinahospital.com"
+        },
+        {
+            "id" : 2,
+            "name" : "Zankli Medical Centre",
+            "address" : "No 1 Ibrahim Tahir Street",
+            "city" : "Abuja",
+            "state" : "FCT",
+            "zip" : "900108",
+            "phone" : "09068882522",
+            "website" : "http://www.zanklimedical.com.ng",
+            "rating" : 4.5
+        },
+        {
+            "id" : 3,
+            "name" : "National Hospital",
+            "address" : "Plot 132 Central District (Phase II)",
+            "city" : "Abuja",
+            "state" : "FCT",
+            "zip" : "900108",
+            "phone" : "+2348097520012",
+            "website" : "https://nationalhospital.gov.ng/",
+            "rating" : 4.5
+        },
+        {
+            "id" : 4,
+            "name" : "Asokoro District Hospital",
+            "address" : "6 Kafe District, Jabi",
+            "city" : "Abuja",
+            "state" : "FCT",
+            "zip" : "900108",
+            "phone" : "+2348097520012",
+            "website" : "https://nationalhospital.gov.ng/",
+            "rating" : 4.5
+        },
+        {
+            "id" : 5,
+            "name" : "Garki Hospital",
+            "address" : "Area 8 Tafawa Balewa Rd, Garki",
+            "city" : "Abuja",
+            "state" : "FCT",
+            "zip" : "900103",
+            "phone" : "+08095698080",
+            "website" : "https://garkihospital.com/",
+            "rating" : 4.5
+        }
+    ]
+}
