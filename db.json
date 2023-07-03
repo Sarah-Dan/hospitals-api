@@ -3,12 +3,13 @@
         {
             "id" : 1,
             "name" : "Kelina Hospital",
-            "address" : "Plot 123, 4th Avenue, Gwarinpa",
+            "address" : "34 Crescent 3rd Avenue, Gwarinpa",
             "city" : "Abuja",
             "state" : "FCT",
             "zip" : "900108",
-            "phone" : "08012345678",
-            "website" : "http://www.kelinahospital.com"
+            "phone" : "+2347016837070",
+            "website" : "http://www.kelinahospital.com",
+            "rating" : 4.4
         },
         {
             "id" : 2,
@@ -19,7 +20,7 @@
             "zip" : "900108",
             "phone" : "09068882522",
             "website" : "http://www.zanklimedical.com.ng",
-            "rating" : 4.5
+            "rating" : 4.1
         },
         {
             "id" : 3,
@@ -27,10 +28,10 @@
             "address" : "Plot 132 Central District (Phase II)",
             "city" : "Abuja",
             "state" : "FCT",
-            "zip" : "900108",
-            "phone" : "+2348097520012",
+            "zip" : "900103",
+            "phone" : "+2348035808004",
             "website" : "https://nationalhospital.gov.ng/",
-            "rating" : 4.5
+            "rating" : 3.9
         },
         {
             "id" : 4,
@@ -40,8 +41,8 @@
             "state" : "FCT",
             "zip" : "900108",
             "phone" : "+2348097520012",
-            "website" : "https://nationalhospital.gov.ng/",
-            "rating" : 4.5
+            "website" : "https://asokorodistricthospital.com/",
+            "rating" : 3.7
         },
         {
             "id" : 5,
@@ -50,9 +51,164 @@
             "city" : "Abuja",
             "state" : "FCT",
             "zip" : "900103",
-            "phone" : "+08095698080",
+            "phone" : "+23490208422",
             "website" : "https://garkihospital.com/",
+            "rating" : 4.1
+        },
+        {
+            "id" : 6,
+            "name" : "Jos University Teaching Hospital",
+            "address" : "Lamingo",
+            "city" : "Jos",
+            "state" : "Plateau",
+            "zip" : "930322",
+            "phone" : "+2349093050548",
+            "website" : "http://juth.org.ng/",
+            "rating" : 3.9
+        },
+        {
+            "id" : 7,
+            "name" : "Iwosan Lagoon Hospitals",
+            "address" : "17B Bourdillon Rd",
+            "city" : "Ikoyi",
+            "state" : "Lagos",
+            "zip" : "106104",
+            "phone" : "+2347080609000",
+            "website" : "https://lagoonhospitals.com/",
+            "rating" : 3.5
+        },
+        {
+            "id" : 8,
+            "name" : "Reddington Hospital",
+            "address" : "12 Idowu Martins St",
+            "city" : "Victoria Island",
+            "state" : "Lagos",
+            "zip" : "101241",
+            "phone" : "+23490165359769",
+            "website" : "https://reddingtonhospital.com/",
+            "rating" : 3.7
+        },
+        {
+            "id" : 9,
+            "name" : "St. Nicholas Hospital",
+            "address" : "LFZ Ibeju Lekki, Akodo road",
+            "city" : "Lekki",
+            "state" : "Lagos",
+            "zip" : "105101",
+            "phone" : "+234 1 631 0090",
+            "website" : "https://stnicholashospital.com/",
+            "rating" : 3.9
+        },
+        {
+            "id" : 10,
+            "name" : "Eko Hospital",
+            "address" : "31 Mobolaji Bank Anthony Way",
+            "city" : "Ikeja",
+            "state" : "Lagos",
+            "zip" : "101233",
+            "phone" : "+23412716997",
+            "website" : "https://ekohospitals.com/",
+            "rating" : 3.2
+        },
+        {
+            "id" : 11,
+            "name" : "Lagos University Teaching Hospital",
+            "address" : "1-5 Oba Akinjobi Way, Ikeja GRA",
+            "city" : "Ikeja",
+            "state" : "Lagos",
+            "zip" : "101241",
+            "phone" : "+234 1 631 0090",
+            "website" : "https://luthnigeria.org/",
             "rating" : 4.5
+        },
+        {
+            "id" : 12,
+            "name" : "Lafia Group of Hospital",
+            "address": "Behind Standard Trust Bank, NNPC Area Abimbola Estate, Apata",
+            "city" : "Ibadan",
+            "state" : "Oyo",
+            "zip" : "200001",
+            "phone" : "+234 1 631 0090",
+            "website" : "https://luthnigeria.org/",
+            "rating" : 4.5
+        },
+        {
+            "id" : 13,
+            "name" : "University College Hospital",
+            "address": "Queen Elizabeth Rd",
+            "city" : "Ibadan",
+            "state" : "Oyo",
+            "zip" : "200001",
+            "phone" : "+234 1 631 0090",
+            "website" : "https://luthnigeria.org/",
+            "rating" : 4.5
+        },
+        {
+            "id" : 14,
+            "name" : "Jolad Hospital",
+            "address": "1, Jolad Hospital Close, Oke Ado",
+            "city" : "Ibadan",
+            "state" : "Oyo",
+            "zip" : "200001",
+            "phone" : "+234 1 631 0090",
+            "website" : "https://luthnigeria.org/",
+            "rating" : 4.5
+        },
+        {
+            "id" : 15,
+            "name" : "St. Nicholas Hospital",
+            "address": "57 Campbell St",
+            "city" : "Lagos Island",
+            "state" : "Lagos",
+            "zip" : "101241",
+            "phone" : "+234 1 631 0090",
+            "website" : "https://stnicholashospital.com/",
+            "rating" : 4.5
+        },
+        {
+            "id" : 16,
+            "name" : "Eko Hospital",
+            "address": "31 Mobolaji Bank Anthony Way",
+            "city" : "Ikeja",
+            "state" : "Lagos",
+            "zip" : "101241",
+            "phone" : "+234 1 631 0090",
+            "website" : "https://ekohospitals.com/",
+            "rating" : 4.5
+        },
+        {
+            "id" : 17,
+            "name" : "Lagos University Teaching Hospital",
+            "address": "1-5 Oba Akinjobi Way, Ikeja GRA",
+            "city" : "Ikeja",
+            "state" : "Lagos",
+            "zip" : "101241",
+            "phone" : "+234 1 631 0090",
+            "website" : "https://luthnigeria.org/",
+            "rating" : 4.5
+        },
+        {
+            "id" : 18,
+            "name" : "Lafia Group of Hospital",
+            "address": "Behind Standard Trust Bank, NNPC Area Abimbola Estate, Apata",
+            "city" : "Ibadan",
+            "state" : "Oyo",
+            "zip" : "200001",
+            "phone" : "+23490208422",
+            "website" : "https://luthnigeria.org/",
+            "rating" : 4.5
+        },
+        {
+            "id" : 19,
+            "name" : "Primus International Super Specialty Hospital",
+            "address": "No. 33 George Akume Way, behind Custom Quarters, Karu District",
+            "city" : "Abuja",
+            "state" : "FCT",
+            "zip" : "900110",
+            "phone" : "+2349127777751",
+            "website" : "https://primushospitalnigeria.com/",
+            "rating" : 3.9
         }
+
     ]
 }
