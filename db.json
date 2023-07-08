@@ -1,5 +1,4 @@
-{
-    "hospitals" : [
+ [
         {
             "id" : 1,
             "name" : "Kelina Hospital",
@@ -113,13 +112,13 @@
         {
             "id" : 11,
             "name" : "Lagos University Teaching Hospital",
-            "address" : "1-5 Oba Akinjobi Way, Ikeja GRA",
+            "address" : "Ishaga Rd, Idi-Araba",
             "city" : "Ikeja",
             "state" : "Lagos",
-            "zip" : "101241",
-            "phone" : "+234 1 631 0090",
-            "website" : "https://luthnigeria.org/",
-            "rating" : 4.5
+            "zip" : "102215",
+            "phone" : "+2348070591395",
+            "website" : "",
+            "rating" : 3.8
         },
         {
             "id" : 12,
@@ -129,7 +128,7 @@
             "state" : "Oyo",
             "zip" : "200001",
             "phone" : "+234 1 631 0090",
-            "website" : "https://luthnigeria.org/",
+            "website" : "",
             "rating" : 4.5
         },
         {
@@ -139,35 +138,35 @@
             "city" : "Ibadan",
             "state" : "Oyo",
             "zip" : "200001",
-            "phone" : "+234 1 631 0090",
+            "phone" : "+234813173347",
             "website" : "https://luthnigeria.org/",
-            "rating" : 4.5
+            "rating" : 4.3
         },
         {
             "id" : 14,
-            "name" : "Jolad Hospital",
-            "address": "1, Jolad Hospital Close, Oke Ado",
-            "city" : "Ibadan",
-            "state" : "Oyo",
-            "zip" : "200001",
-            "phone" : "+234 1 631 0090",
-            "website" : "https://luthnigeria.org/",
-            "rating" : 4.5
+            "name" : "Federal Medical Centre, Owo",
+            "address": "Owo-Akure Rd",
+            "city" : "Owo",
+            "state" : "Ondo",
+            "zip" : "234102",
+            "phone" : "+2348035094545",
+            "website" : "https://fmcowo.org.ng/",
+            "rating" : 4.0
         },
         {
             "id" : 15,
-            "name" : "St. Nicholas Hospital",
-            "address": "57 Campbell St",
-            "city" : "Lagos Island",
-            "state" : "Lagos",
-            "zip" : "101241",
-            "phone" : "+234 1 631 0090",
-            "website" : "https://stnicholashospital.com/",
+            "name" : "Federal Teaching Hospital, Lokoja",
+            "address": "No. 1, Saliu Ibrahim way",
+            "city" : "Lokoja",
+            "state" : "Kogi",
+            "zip" : "260101",
+            "phone" : "",
+            "website" : "https://fmclokoja.gov.ng/",
             "rating" : 4.5
         },
         {
             "id" : 16,
-            "name" : "Eko Hospital",
+            "name" : "",
             "address": "31 Mobolaji Bank Anthony Way",
             "city" : "Ikeja",
             "state" : "Lagos",
@@ -209,6 +208,4 @@
             "website" : "https://primushospitalnigeria.com/",
             "rating" : 3.9
         }
-
     ]
-}
